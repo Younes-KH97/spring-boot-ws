@@ -1,0 +1,412 @@
+[
+  {
+    "country_name": "United States",
+    "bpd": 11567000,
+    "refMonth": "2021-12-01"
+  },
+  {
+    "country_name": "Russia",
+    "bpd": 10503000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "bpd": 10225000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Canada",
+    "bpd": 4656000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Iraq",
+    "bpd": 4260000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "China",
+    "bpd": 3969000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "bpd": 2954000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Brazil",
+    "bpd": 2852000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Kuwait",
+    "bpd": 2610000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Iran",
+    "bpd": 2546000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "bpd": 1937000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Norway",
+    "bpd": 1744000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Mexico",
+    "bpd": 1733000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Qatar",
+    "bpd": 1297000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Nigeria",
+    "bpd": 1258000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Libya",
+    "bpd": 1220000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Angola",
+    "bpd": 1158000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Oman",
+    "bpd": 998000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Algeria",
+    "bpd": 978000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Venezuela",
+    "bpd": 788000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "United Kingdom",
+    "bpd": 772000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Colombia",
+    "bpd": 748000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "bpd": 705000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "India",
+    "bpd": 602000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Egypt",
+    "bpd": 559000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Argentina",
+    "bpd": 547000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Malaysia",
+    "bpd": 501000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Ecuador",
+    "bpd": 485000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Australia",
+    "bpd": 365000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Republic of the Congo",
+    "bpd": 260000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Gabon",
+    "bpd": 195000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Vietnam",
+    "bpd": 190000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Turkmenistan",
+    "bpd": 186000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Bahrain",
+    "bpd": 185000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Ghana",
+    "bpd": 172000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Thailand",
+    "bpd": 161000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Italy",
+    "bpd": 114000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Israel",
+    "bpd": 114000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Brunei",
+    "bpd": 96000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "bpd": 95000,
+    "refMonth": "2022-02-01"
+  },
+  {
+    "country_name": "Pakistan",
+    "bpd": 83000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Yemen",
+    "bpd": 70000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Chad",
+    "bpd": 68000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Denmark",
+    "bpd": 68000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Turkey",
+    "bpd": 67000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Sudan",
+    "bpd": 67000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Romania",
+    "bpd": 63000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Cameroon",
+    "bpd": 62000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "bpd": 61000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Peru",
+    "bpd": 38000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "bpd": 37000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Syria",
+    "bpd": 35000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Germany",
+    "bpd": 34000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Ukraine",
+    "bpd": 33000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Netherlands",
+    "bpd": 33000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Cuba",
+    "bpd": 33000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Belarus",
+    "bpd": 33000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Ivory Coast",
+    "bpd": 32000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Tunisia",
+    "bpd": 31000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Bolivia",
+    "bpd": 30000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Hungary",
+    "bpd": 19000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Mongolia",
+    "bpd": 16000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Albania",
+    "bpd": 16000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Serbia",
+    "bpd": 15000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Suriname",
+    "bpd": 14000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Croatia",
+    "bpd": 12000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Austria",
+    "bpd": 10000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "New Zealand",
+    "bpd": 8600,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Niger",
+    "bpd": 8000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Myanmar",
+    "bpd": 7500,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Guatemala",
+    "bpd": 6400,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Chile",
+    "bpd": 5000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "bpd": 4400,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Japan",
+    "bpd": 3400,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Czech Republic",
+    "bpd": 1700,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Bulgaria",
+    "bpd": 1000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Belize",
+    "bpd": 1000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Barbados",
+    "bpd": 1000,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "bpd": 700,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Lithuania",
+    "bpd": 700,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Tajikistan",
+    "bpd": 300,
+    "refMonth": "2021-11-01"
+  },
+  {
+    "country_name": "Georgia",
+    "bpd": 300,
+    "refMonth": "2021-11-01"
+  }
+]
